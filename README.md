@@ -7,8 +7,6 @@ Esse projeto é um aplicativo Androido nativo devenvolvido com a linguagem de pr
 <img src="https://github.com/HuggoPacobahyba/Calculadora-IMC/assets/134454430/72f39c8c-0d5c-40ff-904b-a4860abc6c7a" width=200/>
 
 
-Screenshots
-
 
 ## Tecnologias
 - Activity
